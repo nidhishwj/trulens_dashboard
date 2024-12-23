@@ -1,0 +1,3 @@
+sqlalchemy
+psycopg2
+trulens==1.0.1
